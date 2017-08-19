@@ -1,0 +1,1 @@
+3. wp :accept then number from user unitil uawer enter 0 and sum them
