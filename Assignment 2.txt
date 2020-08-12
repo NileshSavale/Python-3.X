@@ -1,9 +1,0 @@
-WAP 1:Accept two list from user and return the intersection of them
-
-WAP 2:return the Union of them
-
-WAP 3:inverse the intersaction 
-
-WAP 4:to accept a nested list and output is single level list
-[1,2,3,[4,5],[4,5,6.[4,5,6]]]
-
